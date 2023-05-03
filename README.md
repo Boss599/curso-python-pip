@@ -1,6 +1,6 @@
 # Game Project
 
-Para correr el juego debes seguir las siguientes instrucciones en la terminal:
+Para probar el juego debes seguir las siguientes instrucciones en la terminal:
 
 ```sh
 
